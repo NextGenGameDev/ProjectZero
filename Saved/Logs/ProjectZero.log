@@ -640,3 +640,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.05.06-10.27.04:498][350]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.187
 [2020.05.06-10.31.14:421][ 95]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
 [2020.05.06-10.31.14:421][ 95]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.06-11.32.02:286][278]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.06-11.32.02:286][278]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.06-11.42.33:775][638]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.05.06-11.42.33:775][638]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
